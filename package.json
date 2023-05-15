@@ -1,8 +1,10 @@
 {
   "name": "naturedarktheme",
   "displayName": "NatureDarkTheme",
+  "publisher": "Hashibutogarasu",
   "description": "My custom Theme",
   "version": "0.0.1",
+  "license": "MIT",
   "engines": {
     "vscode": "^1.78.0"
   },
